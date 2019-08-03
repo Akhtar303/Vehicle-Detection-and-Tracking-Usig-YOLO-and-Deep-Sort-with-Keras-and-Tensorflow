@@ -1,13 +1,16 @@
 
 # Introduction
 
-  https://github.com/nwojke/deep_sort
+# Related repositories
   
+  https://github.com/nwojke/deep_sort
+  https://github.com/Qidian213/deep_sort_yolov3
   https://github.com/Akhtar303/Vehicle-Detection-and-Tracking-Usig-YOLO-and-Deep-Sort-with-Keras-and-Tensorflow
+  
 # Quick Start
 
 1. Download Weights for Yolo and Deep Sort : https://drive.google.com/drive/folders/1zIncm9JVFY99a8wIXQ2MNgi12Wx7DwzH?usp=sharing
-   python demo.py
+  
 ```
 
 # Dependencies
@@ -29,6 +32,8 @@ Additionally, feature generation requires TensorFlow-1.4.0
  
  
   It can also tracks Person too and performs well .
+  
+  Run Inference :  python demo.py
 
 
 
