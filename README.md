@@ -1,10 +1,15 @@
 
 # Introduction
 
+The purpose of this little project is to add object tracking to YOLO and Deep Sort and achieve real-time multiple object tracking
+
+
 # Related repositories
   
   https://github.com/nwojke/deep_sort
+  
   https://github.com/Qidian213/deep_sort_yolov3
+  
   https://github.com/Akhtar303/Vehicle-Detection-and-Tracking-Usig-YOLO-and-Deep-Sort-with-Keras-and-Tensorflow
   
 # Quick Start
@@ -32,6 +37,8 @@ Additionally, feature generation requires TensorFlow-1.4.0
  
  
   It can also tracks Person too and performs well .
+  
+  before run inference define video path given to video capture function
   
   Run Inference :  python demo.py
 
